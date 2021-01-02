@@ -1,2 +1,2 @@
 # Algoritmo-Genetico
-Neste trabalho da faculdade tenho como objetivo, encontrar um gene pré definido por uma frase em uma String
+Neste trabalho da faculdade tenho como objetivo: definir um número de gerações de uma população, onde uma palavra atuará como se fosse um gene e sofrerá inumeras conbinações ma sua estrutura( mutações) apartir de caracteres passados no código, afim de conceber inumeros anagramas (que fazem sentido ou não) baseados na estrutura de uma palavra que será passada (olá mundo), lembrando que meste trabalho utilizamos a base de algoritmos genéticos. 
